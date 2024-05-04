@@ -1,0 +1,28 @@
+* {
+     margin: 0;
+    padding: 4;
+} 
+
+body{
+    background-color: #FFFCE8;
+}
+h1{
+    color: rgb(255, 196, 0);
+    /* background-color: rgb(59, 34, 0); */
+    font-size: 96px;
+    font-weight: 100;
+
+}
+.bg {
+    height: 700px ;
+    width: 100%;
+    background-image: url(../imagen/WhatsApp\ Image\ 2023-12-26\ at\ 19.48.03.jpeg);
+    background-color: #FFFCE8; 
+    background-size: 1000px ;
+    background-repeat: no-repeat;
+    background-position: center;  
+    background-attachment: fixed;  
+    mix-blend-mode: multiply;
+    /* margin-left: 400px;
+    margin-top: 300px; */
+} 
